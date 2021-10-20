@@ -10,4 +10,9 @@ public class FirstClass {
         System.out.println("git project");
         System.out.println("git project");
     }
+
+
+    public void test(){
+        int i = 10;
+    }
 }
