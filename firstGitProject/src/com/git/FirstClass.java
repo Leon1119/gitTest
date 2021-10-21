@@ -8,11 +8,12 @@ public class FirstClass {
         System.out.println("git project");
         System.out.println("git project");
         System.out.println("git project");
-        System.out.println("git project");
+        System.out.println("git hello");
     }
 
 
     public void test(){
         int i = 10;
+        System.out.println("test");
     }
 }
